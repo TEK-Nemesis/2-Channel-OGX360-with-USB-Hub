@@ -17,7 +17,7 @@ The majority of these parts can be purchased at Digikey however, at the time of 
 
 **IMPORTANT**:  Ensure to bridge the J1 points on each Arduino Pro Micro 5V.  This will bypass the Arduino's voltage regulator and provide enough "juice" to safely run the ogx360 without the requirement of an external power source.
 
-The TVS Diodes (ESD9B3.3ST5G) are for ESD protection.  They are optional but are highly recommended as the USB Hub Controller (USB2422-I/MJ) is highly sensitive to ESD damage.  
+* The TVS Diodes (ESD9B3.3ST5G) are for ESD protection.  They are optional but are highly recommended as the USB Hub Controller (USB2422-I/MJ) is highly sensitive to ESD damage.  
 
 
 
