@@ -19,7 +19,7 @@ The majority of these parts can be purchased from Digikey however, at the time o
 
 <img src="../Images/Arduino J1 Solder Bridge.jpg" width="80%"/> 
 
-* The TVS Diodes (ESD9B3.3ST5G) are for ESD protection.  They are optional but are highly recommended as the USB Hub Controller (USB2422-I/MJ) is highly sensitive to ESD damage.  
+* The TVS Diodes are for ESD protection.  They are optional but are highly recommended as the USB Hub Controller is highly sensitive to ESD damage.  
 
 
 
