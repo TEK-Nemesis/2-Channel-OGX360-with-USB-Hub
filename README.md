@@ -18,4 +18,4 @@ This project is in the BETA STAGE.  A previous version of the PCB was tested and
 
 <img src="./Images/2-port ogx360 with 2-port USB Hub.jpg" width="60%"/> 
 
-The OGX360/OGX360i is an Open Source Hardware project so respect the license please.
+The OGX360 is an Open Source Hardware project so respect the license please.
