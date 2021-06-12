@@ -8,7 +8,7 @@ For the most part, the OGX360s keep the same hardware and this version simply ad
 
 The majority of these parts can be purchased at Digikey however, at the time of writing this README, some stock was depleted there. 
 
-**USB2422-I/MJ**: https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210612110915&SearchText=USB2422-I%2FMJ
+* **USB2422-I/MJ**: https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210612110915&SearchText=USB2422-I%2FMJ
 
 ### Assembly Notes
 
