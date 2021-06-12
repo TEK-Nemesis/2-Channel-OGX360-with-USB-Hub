@@ -1,7 +1,7 @@
 # 2-Channel OGX360 with USB Hub
 External Wireless Controller mod for the Original Xbox (2 controller version with USB Hub)
 
-<img src="./Images/PCB.jpg" width="30%"/> 
+<img src="./Images/PCB.jpg" width="50%"/> 
 
 ## Intro
 This project builds on the hard work done by Ryzee119.  
