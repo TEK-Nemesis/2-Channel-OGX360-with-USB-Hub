@@ -1,4 +1,4 @@
-* Firmware
+# Firmware
 
 As this project is derived from RYZEE119's OGX360, it uses the same OGX360 firmware.
 
