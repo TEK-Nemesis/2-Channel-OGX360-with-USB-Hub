@@ -1,8 +1,6 @@
 # 2-Channel OGX360 with USB Hub
 External Wireless Controller mod for the Original Xbox (2 controller version with USB Hub)
 
-<img src="./Images/PCB.jpg" width="50%"/> 
-
 ## Intro
 This project builds on the hard work done by Ryzee119.  This variation of the OGX360 adds a 2-port USB Hub to the main PCB.  Having a built-in USB Hub allows you to plug in two different USB devices (such as a wired Hyperkin Duke controller, 8bitdo Bluetooth receiver, Xbox 360 wireless receiver, or any combination of different USB device types).
 
