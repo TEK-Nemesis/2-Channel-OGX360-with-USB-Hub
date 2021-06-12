@@ -13,7 +13,7 @@ The majority of these parts can be purchased at Digikey however, at the time of 
 
 ### Assembly Notes
 
-Ensure to bridge the J1 points on each Arduino Pro Micro 5V.  This will bypass the Arduino's voltage regulator and provide enough "juice" to safely run the ogx360 without the requirement of an external power source.
+**IMPORTANT**:  Ensure to bridge the J1 points on each Arduino Pro Micro 5V.  This will bypass the Arduino's voltage regulator and provide enough "juice" to safely run the ogx360 without the requirement of an external power source.
 
 <img src="../Images/PCB.jpg" width="80%"/> 
 
