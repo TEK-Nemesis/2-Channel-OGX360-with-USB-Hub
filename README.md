@@ -16,6 +16,6 @@ If you like my work please consider buying me a coffee:
 ### * WARNING *
 This project is in the ALPHA STAGE.  It has not yet been tested so please use at your own risk.
 
-<img src="./Images/2-port ogx360 with 2-port USB Hub.jpg" width="80%"/> 
+<img src="./Images/2-port ogx360 with 2-port USB Hub.jpg" width="60%"/> 
 
 The OGX360/OGX360i is an Open Source Hardware project so respect the license please.
