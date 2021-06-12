@@ -9,6 +9,7 @@ For the most part, the OGX360s keep the same hardware and this version simply ad
 The majority of these parts can be purchased at Digikey however, at the time of writing this README, some stock was depleted there. 
 
 * **USB2422-I/MJ**: https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210612110915&SearchText=USB2422-I%2FMJ
+* **Arduino Pro Micro 5V**:  I prefer using the black ones with the large ATMEGA32U4-AU but the blue ones will work fine as well (though the Micro USB port on the blue ones isn't as robust so you should re-inforce them with extra solder on the sides and then with 2-part epoxy on the sides and back).  Any 5V version (including clones) of the Arduino Pro Micro will do.  https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210612112316&SearchText=arduino+pro+micro+5V
 
 ### Assembly Notes
 
