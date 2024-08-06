@@ -6,10 +6,6 @@ This project builds on the hard work done by Ryzee119.  This variation of the OG
 
 ----------
 
-If you like my work please consider buying me a coffee:
-
-[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=CLXCUTHK6YQQQ)<br>
-
 
 ### * WARNING *
 This project is in the BETA STAGE.  A previous version of the PCB was tested and everything worked great.  Use at your own risk!
