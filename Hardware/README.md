@@ -11,13 +11,13 @@ For the most part, the OGX360s keep the same hardware and this version simply ad
 <img src="../Images/PCB_Bottom.jpg" width="60%"/> 
 
 
-## Version 2.0:
+### Version 2.0:
 
 <img src="../Images/PCB_Top (version 2.0).jpg" width="60%"/> 
 
 <img src="../Images/PCB_Bottom (version 2.0).jpg" width="60%"/> 
 
-## Part Sourcing
+### Part Sourcing
 
 The majority of these parts can be purchased from Digikey however, at the time of writing this README, some stock was depleted there. 
 
