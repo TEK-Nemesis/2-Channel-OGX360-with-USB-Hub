@@ -2,7 +2,7 @@
 
 ## Overview
 
-For the most part, the OGX360s keep the same hardware and this version simply adds the components for the USB hub.  This design uses mostly 0402 sized components in order to keep the PCB size to a minimum.  
+For the most part, the OGX360s keep the same hardware and this version simply adds the components for the USB hub.  Version 1.7 is a little easier to assemble than the version 2.0.
 
 <img src="../Images/PCB_Top.jpg" width="60%"/> 
 
